@@ -1,12 +1,11 @@
 ---
 layout: topic
-title: Topic Title
-minutes: MM
+title: Introduction
+minutes: 15
 ---
 > ## Learning Objectives {.objectives}
 >
-> * Learning objective 1
-> * Learning objective 2
+> * Students will access data from a public API using JavaScript, and display it on a website
 
 Paragraphs of text mixed with:
 
